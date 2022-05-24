@@ -1,4 +1,3 @@
-import re
 import click
 
 from atem.services.service_quote import Quote
